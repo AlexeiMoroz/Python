@@ -1,0 +1,4 @@
+firm_1 ooo 10000 5000
+firm_2 za0 300 50
+firm_3 ao 700 7000
+firm_4 ip 4000 5500
