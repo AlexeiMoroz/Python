@@ -1,0 +1,4 @@
+Informatix:   100(l)   50(pr)   20(lab).
+Phiyix:   30(l)   —   10(lab)
+FiyicalCulture:   —   30(pr)   —
+
